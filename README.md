@@ -10,4 +10,4 @@
 
 В директории /tests/images лежат фотографии для тестов.
 
-Важное напоминание: убедиться, что в проект (в терминале через pip install) подгружены библиотеки requests, requests_toolbelt, pytest
+(напоминание: убедиться, что в проект подгружены библиотеки requests, requests_toolbelt, pytest (в терминале через pip install)
